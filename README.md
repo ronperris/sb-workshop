@@ -21,16 +21,17 @@
 
   <details>
     <summary>Hint</summary>
-      https://www.npmjs.com/package/autolinker#running-the-live-example-page-locally
+      Run the demo page locally. https://www.npmjs.com/package/autolinker#running-the-live-example-page-locally
 
-      In the input box try. `<img src=x onerror=alert(1) />`
+      In the input box, try a cross-site scripting payload.
 
   </details>
 
 - bootbox@5.4.0
     <details>
       <summary>Hint</summary>
-        Load the library on a page and try. `bootbox.alert('<img src=x onerror=alert(1) />')`
+        Load the library on a page.
+        Try a cross-site scripting payload in bootbox.alert(). 
     </details>
 - react-autolinker-wrapper
 - auth0-lock
