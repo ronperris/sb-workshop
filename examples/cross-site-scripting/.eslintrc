@@ -1,0 +1,10 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 6
+  },
+  "plugins": ["no-unsanitized"],
+  "rules": {
+    "no-unsanitized/method": "error",
+    "no-unsanitized/property": "error"
+  }
+}

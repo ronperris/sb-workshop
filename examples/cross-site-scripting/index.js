@@ -24,4 +24,4 @@ app.get('/users', function (req, res) {
   })
 })
 
-app.listen(3000)
+app.listen(3000, _ => console.log('http://localhost:3000'))
