@@ -13,7 +13,7 @@
 
 - DOM based Cross-site Scripting
 
-## What are we looking at?
+## What are we looking?
 
 - autolinker@3.11.1
 
