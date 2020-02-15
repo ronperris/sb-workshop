@@ -50,8 +50,8 @@
 ## How are we looking?
 
 1. Review the module documentation.
-2. Review the module source.
-3. Risk assess the module.
+2. Risk assess the module. 
+3. Review the module source.
 4. Install a linter that might help.
 5. Find a cross-site scripting vulnerability.
 
