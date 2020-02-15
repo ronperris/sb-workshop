@@ -1,0 +1,12 @@
+{
+  "name": "cross-site-scripting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node"
+  },
+  "keywords": [],
+  "author": "Ron Perris <ron@perr.is>",
+  "license": "ISC"
+}
